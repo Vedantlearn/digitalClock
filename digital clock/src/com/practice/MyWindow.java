@@ -35,6 +35,7 @@ public class MyWindow extends JFrame
 		this.add(heading);
 		this.add(clocklabel);
 		
+
 	}
 	public void startClock() 
 	{
