@@ -1,5 +1,4 @@
 package com.practice;
-
 import javax.swing.*;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
