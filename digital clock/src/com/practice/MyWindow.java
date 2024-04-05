@@ -6,6 +6,7 @@ import java.awt.event.ActionListener;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.awt.*;
+
 public class MyWindow extends JFrame 
 {
 	private JLabel heading;
